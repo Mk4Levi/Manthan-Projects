@@ -1,0 +1,67 @@
+.mkp-personal {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+}
+
+.mkp-personal .personal-heading {
+  color: var(--primary-color);
+}
+
+.mkp .mkp-personal {
+  display: inline-block;
+  width: 40%;
+}
+
+.mkp section {
+  display: inline-block;
+  width: 40%;
+}
+
+.mkp-2 {
+  display: inline-block;
+  width: 45%;
+}
+
+.mkp-3 {
+  display: inline-block;
+  width: 45%;
+}
+
+.list-item-inline-block {
+  padding: 2px;
+  margin: 18px;
+}
+
+#mkBtn :hover {
+  color: aqua;
+}
+
+.mkList li {
+  padding-bottom: 8px;
+  padding-left: 10px;
+  margin-left: 100px;
+}
+
+.projects-heading {
+  font-size: xx-large;
+  color: chocolate;
+}
+
+.project-list li {
+  padding-left: 10px;
+  margin-left: 15px;
+}
+
+.project-list li button {
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 10px;
+  background-color: aquamarine;
+}
+
+.project-list li button:hover {
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: rgb(163, 255, 101);
+}
