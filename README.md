@@ -1,1 +1,1 @@
-# Manthan's Project webaite
+# Manthan's Project website
