@@ -25,7 +25,7 @@ function Navbar() {
           <li className="list-item-inline">
             <a
               className="link"
-              href="https://github.com/Mk4Levi?tab=repositories"
+              href="https://github.com/stars/Mk4Levi/lists/my-imp-projects"
               target="_blank"
               rel="noreferrer"
             >
