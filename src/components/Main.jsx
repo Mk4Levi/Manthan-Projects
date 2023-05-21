@@ -40,18 +40,19 @@ function Main() {
               <ol className="mkList">
                 <li> React.js</li>
                 <li> Express.js</li>
-                <li> Node.js</li>
                 <li> MongoDB</li>
                 <li> TypeScript</li>
                 <li> JavaScript (ES6+)</li>
-                <li> Git & GitHub</li>
                 <li> Next.js</li>
+                <li> Node.js</li>
+                <li> Git & GitHub</li>
                 <li> API</li>
                 <li> mySQL</li>
                 <li> HTML-5</li>
                 <li> CSS-3</li>
                 <li> Bootstrap-5</li>
                 <li> Tailwind-CSS</li>
+                <li> Core-Java</li>
               </ol>
             </b>
           </div>
