@@ -15,7 +15,7 @@ function Navbar() {
           <li className="list-item-inline">
             <a
               className="link"
-              href="https://manthan-mk.vercel.app/#main-wrapper"
+              href="https://manthan-mk-portfolio.vercel.app/project"
               target="_blank"
               rel="noreferrer"
             >
@@ -35,7 +35,7 @@ function Navbar() {
           <li className="list-item-inline">
             <a
               className="link"
-              href="https://manthan-mk.vercel.app/"
+              href="https://manthan-mk-portfolio.vercel.app/"
               target="_blank"
               rel="noreferrer"
             >
